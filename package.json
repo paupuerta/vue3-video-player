@@ -1,5 +1,5 @@
 {
-  "name": "@cloudgeek/vue3-video-player",
+  "name": "@paupuerta/vue3-video-player",
   "version": "0.3.0",
   "private": false,
   "scripts": {
@@ -12,7 +12,7 @@
   "main": "dist/vue3-video-player.common.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LarchLiu/vue3-video-player.git"
+    "url": "git+https://github.com/paupuerta/vue3-video-player.git"
   },
   "dependencies": {
     "@multiavatar/multiavatar": "^1.0.5",
